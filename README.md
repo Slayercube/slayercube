@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Figma, React Native, Typescript**
+ 🌱 I’m currently learning **Three.js, React Native, Typescript**
 
 💬 Ask me about **, React, javascript... or anything. I am happy to talk about anything**
 
