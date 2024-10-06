@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a real estate project**
  
- 🌱 I’m currently learning **Three.js, React Native, Typescript**
+ 🌱 I’m currently learning **Three.js, React Native, next.js**
 
 💬 Ask me about **, React, javascript... or anything. I am happy to talk about anything**
 
