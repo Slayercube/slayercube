@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Three.js, React Native, Next.js**
 
-💬 Ask me about **, React, javascript... or anything. I am happy to talk about anything**
+💬 Ask me about **, React, Next.js, javascript... or anything. I am happy to talk about anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
