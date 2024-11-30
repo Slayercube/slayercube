@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Three.js, React Native, Next.js**
 
-💬 Ask me about **, React, Nextjs, javascript... or anything. I am happy to talk about anything**
+💬 Ask me about **, React, javascript... or anything. I am happy to talk about anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,Next.js,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mysql,flask,mongodb" /><br>
 </div>
 
